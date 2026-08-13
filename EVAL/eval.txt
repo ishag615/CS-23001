@@ -1,0 +1,37 @@
+Grades are out of 100% - Comments are mostly for why points were taken off.
+
+P1
+
+m1: 82 - do not print leading zeroes; seg faults in c_str tests; inconsistent formatting, add newlines inbetween implementations;
+m2: 70 - add.cpp does not compile; not that many test cases for + and [];
+m3: 60 - no multiply.cpp; no test cases for times10 and digit;
+
+bonus: 100
+
+
+P2
+
+m1: 
+m2: 
+m3: 
+m4: 
+
+bonus: 
+
+P3
+
+m1: 
+m2: 
+m3: 
+
+bonus: 
+
+P4
+
+m1: 
+m2: 
+m3: 
+
+bonus: 
+
+

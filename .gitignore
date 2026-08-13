@@ -1,0 +1,7 @@
+.svn/
+.vscode/
+*.o
+*.out
+a.out
+*~
+debug_lab01/buggy
